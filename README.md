@@ -2,6 +2,8 @@
 
 Программа для конвертации изображений и GIF-анимаций в ASCII-арт с анимацией.
 
+[![Скачать последнюю версию](https://img.shields.io/badge/Скачать-EXE-green?style=for-the-badge&logo=windows)](https://github.com/Fenebutik/Ascii-Art/releases/latest/download/ASCII.Art.exe)
+
 ## Возможности
 - 4 палитры символов (Блочная, Градиентная, Минимальная, 3D-стиль)
 - Контурный стиль (учёт градиента для детализации)
